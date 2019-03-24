@@ -5,6 +5,7 @@
   "version": "1.0",
 
   "description": "Adds a red border to all webpages matching mozilla.org.",
+  "homepage_url": "https://github.com/linuxbytes/borderify",
 
   "icons": {
     "48": "icons/border-48.png"
